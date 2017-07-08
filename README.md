@@ -21,3 +21,5 @@ http://app-1053048000.appstor.io/
 
 第三個按鈕：<br>
 可連結至粉絲專頁，迅速提供建議與改進，以推出更好的使用體驗。<br>
+
+<a href="http://imgur.com/akNWh0y"><img src="http://i.imgur.com/akNWh0y.jpg" title="source: imgur.com" width="250" height="400" /></a>
